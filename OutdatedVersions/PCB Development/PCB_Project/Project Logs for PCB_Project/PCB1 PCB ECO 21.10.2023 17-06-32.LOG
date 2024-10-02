@@ -1,0 +1,110 @@
+Added Component: Designator=A?(BluePill)
+Added Component: Designator=A?(BluePill)
+Added Component: Designator=A?(Monster Moto Shield)
+Added Component: Designator=A?(Monster Moto Shield)
+Added Pin To Net: NetName=GND Pin=A?-16
+Added Pin To Net: NetName=GND Pin=A?-16
+Added Pin To Net: NetName=GND Pin=A?-17
+Added Pin To Net: NetName=GND Pin=A?-17
+Added Pin To Net: NetName=GND Pin=A?-18
+Added Pin To Net: NetName=GND Pin=A?-18
+Added Pin To Net: NetName=GND Pin=A?-19
+Added Pin To Net: NetName=GND Pin=A?-19
+Added Pin To Net: NetName=GND Pin=A?-21
+Added Pin To Net: NetName=GND Pin=A?-21
+Added Pin To Net: NetName=GND Pin=A?-22
+Added Pin To Net: NetName=GND Pin=A?-22
+Added Pin To Net: NetName=GND Pin=A?-44
+Added Pin To Net: NetName=5V Pin=A?-18
+Added Pin To Net: NetName=5V Pin=A?-18
+Added Net: Name=5V
+Added Pin To Net: NetName=CS1_1 Pin=A?-3
+Added Pin To Net: NetName=CS1_1 Pin=A?-34
+Added Net: Name=CS1_1
+Added Pin To Net: NetName=CS1_2 Pin=A?-3
+Added Pin To Net: NetName=CS1_2 Pin=A?-34
+Added Net: Name=CS1_2
+Added Pin To Net: NetName=CS2_1 Pin=A?-4
+Added Pin To Net: NetName=CS2_1 Pin=A?-33
+Added Net: Name=CS2_1
+Added Pin To Net: NetName=CS2_2 Pin=A?-4
+Added Pin To Net: NetName=CS2_2 Pin=A?-33
+Added Net: Name=CS2_2
+Added Pin To Net: NetName=EN1_1 Pin=A?-1
+Added Pin To Net: NetName=EN1_1 Pin=A?-16
+Added Net: Name=EN1_1
+Added Pin To Net: NetName=EN1_2 Pin=A?-1
+Added Pin To Net: NetName=EN1_2 Pin=A?-16
+Added Net: Name=EN1_2
+Added Pin To Net: NetName=EN2_1 Pin=A?-2
+Added Pin To Net: NetName=EN2_1 Pin=A?-13
+Added Net: Name=EN2_1
+Added Pin To Net: NetName=EN2_2 Pin=A?-2
+Added Pin To Net: NetName=EN2_2 Pin=A?-13
+Added Net: Name=EN2_2
+Added Pin To Net: NetName=ENC1_CH1_1 Pin=A?-5
+Added Net: Name=ENC1_CH1_1
+Added Pin To Net: NetName=ENC1_CH1_2 Pin=A?-5
+Added Net: Name=ENC1_CH1_2
+Added Pin To Net: NetName=ENC1_CH2_1 Pin=A?-6
+Added Net: Name=ENC1_CH2_1
+Added Pin To Net: NetName=ENC1_CH2_2 Pin=A?-6
+Added Net: Name=ENC1_CH2_2
+Added Pin To Net: NetName=ENC2_CH1_1 Pin=A?-36
+Added Net: Name=ENC2_CH1_1
+Added Pin To Net: NetName=ENC2_CH1_2 Pin=A?-36
+Added Net: Name=ENC2_CH1_2
+Added Pin To Net: NetName=ENC2_CH2_1 Pin=A?-35
+Added Net: Name=ENC2_CH2_1
+Added Pin To Net: NetName=ENC2_CH2_2 Pin=A?-35
+Added Net: Name=ENC2_CH2_2
+Added Pin To Net: NetName=INA1_1 Pin=A?-8
+Added Pin To Net: NetName=INA1_1 Pin=A?-14
+Added Net: Name=INA1_1
+Added Pin To Net: NetName=INA1_2 Pin=A?-8
+Added Pin To Net: NetName=INA1_2 Pin=A?-14
+Added Net: Name=INA1_2
+Added Pin To Net: NetName=INA2_1 Pin=A?-5
+Added Pin To Net: NetName=INA2_1 Pin=A?-11
+Added Net: Name=INA2_1
+Added Pin To Net: NetName=INA2_2 Pin=A?-5
+Added Pin To Net: NetName=INA2_2 Pin=A?-11
+Added Net: Name=INA2_2
+Added Pin To Net: NetName=INB1_1 Pin=A?-9
+Added Pin To Net: NetName=INB1_1 Pin=A?-15
+Added Net: Name=INB1_1
+Added Pin To Net: NetName=INB1_2 Pin=A?-9
+Added Pin To Net: NetName=INB1_2 Pin=A?-15
+Added Net: Name=INB1_2
+Added Pin To Net: NetName=INB2_1 Pin=A?-10
+Added Pin To Net: NetName=INB2_1 Pin=A?-12
+Added Net: Name=INB2_1
+Added Pin To Net: NetName=INB2_2 Pin=A?-10
+Added Pin To Net: NetName=INB2_2 Pin=A?-12
+Added Net: Name=INB2_2
+Added Pin To Net: NetName=PWM1_1 Pin=A?-6
+Added Pin To Net: NetName=PWM1_1 Pin=A?-30
+Added Net: Name=PWM1_1
+Added Pin To Net: NetName=PWM1_2 Pin=A?-6
+Added Pin To Net: NetName=PWM1_2 Pin=A?-30
+Added Net: Name=PWM1_2
+Added Pin To Net: NetName=PWM2_1 Pin=A?-29
+Added Net: Name=PWM2_1
+Added Pin To Net: NetName=PWM2_2 Pin=A?-7
+Added Pin To Net: NetName=PWM2_2 Pin=A?-29
+Added Net: Name=PWM2_2
+Added Pin To Net: NetName=PWM2 Pin=A?-7
+Added Net: Name=PWM2
+Added Pin To Net: NetName=SPI2_MISO Pin=A?-3
+Added Pin To Net: NetName=SPI2_MISO Pin=A?-3
+Added Net: Name=SPI2_MISO
+Added Pin To Net: NetName=SPI2_MOSI Pin=A?-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=A?-4
+Added Net: Name=SPI2_MOSI
+Added Pin To Net: NetName=SPI2_SCK Pin=A?-2
+Added Pin To Net: NetName=SPI2_SCK Pin=A?-2
+Added Net: Name=SPI2_SCK
+Added Member To Class: ClassName=Sheet1 Member=Component A? Bluepill-stm32f103c8t6
+Added Member To Class: ClassName=Sheet1 Member=Component A? Bluepill-stm32f103c8t6
+Added Member To Class: ClassName=Sheet1 Member=Component A? Monster Moto Shield
+Added Member To Class: ClassName=Sheet1 Member=Component A? Monster Moto Shield

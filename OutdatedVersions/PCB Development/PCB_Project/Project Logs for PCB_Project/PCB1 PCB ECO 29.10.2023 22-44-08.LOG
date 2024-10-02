@@ -1,0 +1,32 @@
+Added Component: Designator=A7(BluePill)
+Added Component: Designator=XP10(PLS-11)
+Added Component: Designator=XP11(PLS-12)
+Added Pin To Net: NetName=NetA7_10 Pin=A7-10
+Added Pin To Net: NetName=NetA7_11 Pin=A7-11
+Added Pin To Net: NetName=NetA7_12 Pin=A7-12
+Added Pin To Net: NetName=NetA7_13 Pin=A7-13
+Added Pin To Net: NetName=I2C_SCL Pin=A7-14
+Added Pin To Net: NetName=I2C_SDA Pin=A7-15
+Added Pin To Net: NetName=INU_ADDR Pin=A7-16
+Added Pin To Net: NetName=IMU_INT Pin=A7-17
+Added Pin To Net: NetName=5V Pin=A7-18
+Added Pin To Net: NetName=GND Pin=A7-19
+Added Pin To Net: NetName=3V3 Pin=A7-20
+Added Pin To Net: NetName=5V Pin=A7-21
+Added Pin To Net: NetName=GND Pin=A7-22
+Added Pin To Net: NetName=3V3 Pin=A7-23
+Added Pin To Net: NetName=SPI2_MOSI Pin=A7-28
+Added Pin To Net: NetName=SPI2_MISO Pin=A7-29
+Added Pin To Net: NetName=SPI2_SCK Pin=A7-30
+Added Pin To Net: NetName=SPI2_NSS_2 Pin=A7-31
+Added Pin To Net: NetName=SPI2_NSS_1 Pin=A7-32
+Added Pin To Net: NetName=NetA7_35 Pin=A7-35
+Added Pin To Net: NetName=5V Pin=XP10-1
+Added Pin To Net: NetName=GND Pin=XP10-2
+Added Pin To Net: NetName=3V3 Pin=XP10-3
+Added Pin To Net: NetName=3V3 Pin=XP11-1
+Added Pin To Net: NetName=GND Pin=XP11-2
+Added Pin To Net: NetName=5V Pin=XP11-3
+Added Member To Class: ClassName=Sheet2 Member=Component A7 Blackpill-stm32f401ccu6
+Added Member To Class: ClassName=Sheet2 Member=Component XP10
+Added Member To Class: ClassName=Sheet2 Member=Component XP11

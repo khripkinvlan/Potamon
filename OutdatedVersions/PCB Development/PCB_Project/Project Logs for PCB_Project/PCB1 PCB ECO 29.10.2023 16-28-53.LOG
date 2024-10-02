@@ -1,0 +1,19 @@
+Added Component: Designator=SB1(Button)
+Add component (AddParameter): Name = "Part number"; Value = "KLS7-TS6601-13.0-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(Button)
+Add component (AddParameter): Name = "Part number"; Value = "KLS7-TS6601-13.0-180"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DD1-17
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=NetR5_2 Pin=SB1-2
+Added Pin To Net: NetName=NetR5_2 Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=NetR7_2 Pin=SB2-2
+Added Pin To Net: NetName=NetR7_2 Pin=SB2-2
+Add Pin To Net: Unknown Pin: Pin VT1-B
+Add Pin To Net: Unknown Pin: Pin VT1-C
+Add Pin To Net: Unknown Pin: Pin VT1-E
+Added Member To Class: ClassName=Sheet2 Member=Component SB1 KLS7-TS6601-13.0-180
+Added Member To Class: ClassName=Sheet2 Member=Component SB2 KLS7-TS6601-13.0-180
+Add Class Member: Failed to add class member : Component VT1

@@ -1,0 +1,26 @@
+Added Component: Designator=XP12(PLS-4)
+Added Component: Designator=XP13(PLS-4)
+Added Pin To Net: NetName=GND Pin=A5-44
+Added Pin To Net: NetName=GND Pin=A6-44
+Added Pin To Net: NetName=GND Pin=XP12-4
+Added Pin To Net: NetName=GND Pin=XP13-4
+Added Pin To Net: NetName=NetA5_41 Pin=A5-41
+Added Pin To Net: NetName=NetA5_41 Pin=XP12-1
+Added Net: Name=NetA5_41
+Added Pin To Net: NetName=NetA5_42 Pin=A5-42
+Added Pin To Net: NetName=NetA5_42 Pin=XP12-2
+Added Net: Name=NetA5_42
+Added Pin To Net: NetName=NetA5_43 Pin=A5-43
+Added Pin To Net: NetName=NetA5_43 Pin=XP12-3
+Added Net: Name=NetA5_43
+Added Pin To Net: NetName=NetA6_41 Pin=A6-41
+Added Pin To Net: NetName=NetA6_41 Pin=XP13-1
+Added Net: Name=NetA6_41
+Added Pin To Net: NetName=NetA6_42 Pin=A6-42
+Added Pin To Net: NetName=NetA6_42 Pin=XP13-2
+Added Net: Name=NetA6_42
+Added Pin To Net: NetName=NetA6_43 Pin=A6-43
+Added Pin To Net: NetName=NetA6_43 Pin=XP13-3
+Added Net: Name=NetA6_43
+Added Member To Class: ClassName=Sheet1 Member=Component XP12
+Added Member To Class: ClassName=Sheet1 Member=Component XP13

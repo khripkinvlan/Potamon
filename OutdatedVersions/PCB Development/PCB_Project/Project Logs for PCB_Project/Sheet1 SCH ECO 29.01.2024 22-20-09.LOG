@@ -1,0 +1,10 @@
+Add Pin To Net: Pin=A5-1 Old Net=NetA5_1 New Net=SPI2_NSS_1
+Add Pin To Net: Pin=A5-2 Old Net=NetA5_2 New Net=SPI2_SCK
+Add Pin To Net: Pin=A5-3 Old Net=NetA5_3 New Net=SPI2_MISO
+Add Pin To Net: Pin=A5-4 Old Net=NetA5_4 New Net=SPI2_MOSI
+Add Pin To Net: Pin=A6-1 Old Net=NetA6_1 New Net=SPI2_NSS_2
+Add Pin To Net: Pin=A6-2 Old Net=NetA6_2 New Net=SPI2_SCK
+Add Pin To Net: Pin=A6-3 Old Net=NetA6_3 New Net=SPI2_MISO
+Add Pin To Net: Pin=A6-4 Old Net=NetA6_4 New Net=SPI2_MOSI
+Add Pin To Net: Pin=XP11-4 Old Net=NetXP11_4 New Net=I2C_SDA
+Add Pin To Net: Pin=XP11-5 Old Net=NetXP11_5 New Net=I2C_SCL

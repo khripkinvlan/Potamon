@@ -1,0 +1,229 @@
+Added Component: Designator=A1(Monster Moto Shield)
+Added Component: Designator=A2(Monster Moto Shield)
+Added Component: Designator=A3(DC-DC Board)
+Added Component: Designator=A4(GY-BNO055 board)
+Added Component: Designator=A5(BluePill)
+Added Component: Designator=A6(BluePill)
+Added Component: Designator=A7(BluePill)
+Added Component: Designator=C1(C0603C)
+Add component (AddParameter): Name = "Value"; Value = "220 н‘"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603C)
+Add component (AddParameter): Name = "Value"; Value = "220 н‘"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SO-14)
+Added Component: Designator=HL1(ledrad3mm)
+Added Component: Designator=HL2(ledrad3mm)
+Added Component: Designator=LS1(Buzzer 12mm)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=R4(R0603)
+Added Component: Designator=R5(R0603)
+Added Component: Designator=R6(R0603)
+Added Component: Designator=R7(R0603)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=SB1(Button)
+Add component (AddParameter): Name = "Part number"; Value = "KLS7-TS6601-13.0-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(Button)
+Add component (AddParameter): Name = "Part number"; Value = "KLS7-TS6601-13.0-180"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT23-3-BEC)
+Added Component: Designator=XP1(JST 4pin)
+Added Component: Designator=XP2(JST 4pin)
+Added Component: Designator=XP3(JST 4pin)
+Added Component: Designator=XP4(JST 4pin)
+Added Component: Designator=XP5(B2P-VH)
+Added Component: Designator=XP6(B2P-VH)
+Added Component: Designator=XP7(B2P-VH)
+Added Component: Designator=XP8(B2P-VH)
+Added Component: Designator=XP9(XT60UPB-M)
+Added Component: Designator=XP10(PLS-11)
+Added Component: Designator=XP11(PLS-12)
+Added Component: Designator=XP12(PLS-4)
+Added Component: Designator=XP13(PLS-4)
+Added Pin To Net: NetName=NetA1_11 Pin=A1-11
+Added Pin To Net: NetName=NetA1_12 Pin=A1-12
+Added Pin To Net: NetName=NetA1_13 Pin=A1-13
+Added Pin To Net: NetName=NetA1_14 Pin=A1-14
+Added Pin To Net: NetName=GND Pin=A1-16
+Added Pin To Net: NetName=GND Pin=A1-17
+Added Pin To Net: NetName=GND Pin=A1-18
+Added Pin To Net: NetName=5V Pin=A1-19
+Added Pin To Net: NetName=12V Pin=A1-20
+Added Pin To Net: NetName=PWR GND Pin=A1-21
+Added Pin To Net: NetName=NetA2_11 Pin=A2-11
+Added Pin To Net: NetName=NetA2_12 Pin=A2-12
+Added Pin To Net: NetName=NetA2_13 Pin=A2-13
+Added Pin To Net: NetName=NetA2_14 Pin=A2-14
+Added Pin To Net: NetName=GND Pin=A2-16
+Added Pin To Net: NetName=GND Pin=A2-17
+Added Pin To Net: NetName=GND Pin=A2-18
+Added Pin To Net: NetName=5V Pin=A2-19
+Added Pin To Net: NetName=12V Pin=A2-20
+Added Pin To Net: NetName=PWR GND Pin=A2-21
+Added Pin To Net: NetName=12V Pin=A3-1
+Added Pin To Net: NetName=PWR GND Pin=A3-2
+Added Pin To Net: NetName=5V Pin=A3-3
+Added Pin To Net: NetName=GND Pin=A3-4
+Added Pin To Net: NetName=IMU_INT Pin=A4-3
+Added Pin To Net: NetName=INU_ADDR Pin=A4-4
+Added Pin To Net: NetName=I2C_SDA Pin=A4-5
+Added Pin To Net: NetName=I2C_SCL Pin=A4-6
+Added Pin To Net: NetName=GND Pin=A4-7
+Added Pin To Net: NetName=3V3 Pin=A4-8
+Added Pin To Net: NetName=SPI2_NSS_1 Pin=A5-1
+Added Pin To Net: NetName=SPI2_SCK Pin=A5-2
+Added Pin To Net: NetName=SPI2_MISO Pin=A5-3
+Added Pin To Net: NetName=SPI2_MOSI Pin=A5-4
+Added Pin To Net: NetName=5V Pin=A5-18
+Added Pin To Net: NetName=GND Pin=A5-19
+Added Pin To Net: NetName=GND Pin=A5-21
+Added Pin To Net: NetName=GND Pin=A5-22
+Added Pin To Net: NetName=NetA5_41 Pin=A5-41
+Added Pin To Net: NetName=NetA5_42 Pin=A5-42
+Added Pin To Net: NetName=NetA5_43 Pin=A5-43
+Added Pin To Net: NetName=GND Pin=A5-44
+Added Pin To Net: NetName=SPI2_NSS_2 Pin=A6-1
+Added Pin To Net: NetName=SPI2_SCK Pin=A6-2
+Added Pin To Net: NetName=SPI2_MISO Pin=A6-3
+Added Pin To Net: NetName=SPI2_MOSI Pin=A6-4
+Added Pin To Net: NetName=5V Pin=A6-18
+Added Pin To Net: NetName=GND Pin=A6-19
+Added Pin To Net: NetName=GND Pin=A6-21
+Added Pin To Net: NetName=GND Pin=A6-22
+Added Pin To Net: NetName=NetA6_41 Pin=A6-41
+Added Pin To Net: NetName=NetA6_42 Pin=A6-42
+Added Pin To Net: NetName=NetA6_43 Pin=A6-43
+Added Pin To Net: NetName=GND Pin=A6-44
+Added Pin To Net: NetName=NetA7_10 Pin=A7-10
+Added Pin To Net: NetName=NetA7_11 Pin=A7-11
+Added Pin To Net: NetName=NetA7_12 Pin=A7-12
+Added Pin To Net: NetName=NetA7_13 Pin=A7-13
+Added Pin To Net: NetName=I2C_SCL Pin=A7-14
+Added Pin To Net: NetName=I2C_SDA Pin=A7-15
+Added Pin To Net: NetName=INU_ADDR Pin=A7-16
+Added Pin To Net: NetName=IMU_INT Pin=A7-17
+Added Pin To Net: NetName=5V Pin=A7-18
+Added Pin To Net: NetName=GND Pin=A7-19
+Added Pin To Net: NetName=3V3 Pin=A7-20
+Added Pin To Net: NetName=5V Pin=A7-21
+Added Pin To Net: NetName=GND Pin=A7-22
+Added Pin To Net: NetName=3V3 Pin=A7-23
+Added Pin To Net: NetName=SPI2_MOSI Pin=A7-28
+Added Pin To Net: NetName=SPI2_MISO Pin=A7-29
+Added Pin To Net: NetName=SPI2_SCK Pin=A7-30
+Added Pin To Net: NetName=SPI2_NSS_2 Pin=A7-31
+Added Pin To Net: NetName=SPI2_NSS_1 Pin=A7-32
+Added Pin To Net: NetName=NetA7_35 Pin=A7-35
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetA7_10 Pin=DD1-2
+Added Pin To Net: NetName=NetC2_1 Pin=DD1-3
+Added Pin To Net: NetName=NetA7_11 Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=DD1-7
+Added Pin To Net: NetName=3V3 Pin=DD1-14
+Added Pin To Net: NetName=NetA7_12 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetA7_13 Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=5V Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=R1-2
+Added Pin To Net: NetName=NetA7_35 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Pin To Net: NetName=NetC1_1 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-1
+Added Pin To Net: NetName=NetC2_1 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=NetR5_2 Pin=SB1-2
+Added Pin To Net: NetName=NetR5_2 Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=NetR7_2 Pin=SB2-2
+Added Pin To Net: NetName=NetR7_2 Pin=SB2-2
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-B
+Added Pin To Net: NetName=NetR1_1 Pin=VT1-C
+Added Pin To Net: NetName=GND Pin=VT1-E
+Added Pin To Net: NetName=5V Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Pin To Net: NetName=5V Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP2-4
+Added Pin To Net: NetName=5V Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP3-4
+Added Pin To Net: NetName=5V Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XP4-4
+Added Pin To Net: NetName=NetA1_11 Pin=XP5-1
+Added Pin To Net: NetName=NetA1_12 Pin=XP5-2
+Added Pin To Net: NetName=NetA1_13 Pin=XP6-1
+Added Pin To Net: NetName=NetA1_14 Pin=XP6-2
+Added Pin To Net: NetName=NetA2_11 Pin=XP7-1
+Added Pin To Net: NetName=NetA2_12 Pin=XP7-2
+Added Pin To Net: NetName=NetA2_13 Pin=XP8-1
+Added Pin To Net: NetName=NetA2_14 Pin=XP8-2
+Added Pin To Net: NetName=12V Pin=XP9-1
+Added Pin To Net: NetName=PWR GND Pin=XP9-2
+Added Pin To Net: NetName=5V Pin=XP10-1
+Added Pin To Net: NetName=GND Pin=XP10-2
+Added Pin To Net: NetName=3V3 Pin=XP10-3
+Added Pin To Net: NetName=3V3 Pin=XP11-1
+Added Pin To Net: NetName=GND Pin=XP11-2
+Added Pin To Net: NetName=5V Pin=XP11-3
+Added Pin To Net: NetName=I2C_SDA Pin=XP11-4
+Added Pin To Net: NetName=I2C_SCL Pin=XP11-5
+Added Pin To Net: NetName=NetA5_41 Pin=XP12-1
+Added Pin To Net: NetName=NetA5_42 Pin=XP12-2
+Added Pin To Net: NetName=NetA5_43 Pin=XP12-3
+Added Pin To Net: NetName=GND Pin=XP12-4
+Added Pin To Net: NetName=NetA6_41 Pin=XP13-1
+Added Pin To Net: NetName=NetA6_42 Pin=XP13-2
+Added Pin To Net: NetName=NetA6_43 Pin=XP13-3
+Added Pin To Net: NetName=GND Pin=XP13-4
+Added Member To Class: ClassName=Sheet1 Member=Component A1 Monster Moto Shield
+Added Member To Class: ClassName=Sheet1 Member=Component A2 Monster Moto Shield
+Added Member To Class: ClassName=Sheet1 Member=Component A3 DC-DC Board
+Added Member To Class: ClassName=Sheet2 Member=Component A4 GY-BNO055
+Added Member To Class: ClassName=Sheet1 Member=Component A5 Bluepill-stm32f103c8t6
+Added Member To Class: ClassName=Sheet1 Member=Component A6 Bluepill-stm32f103c8t6
+Added Member To Class: ClassName=Sheet2 Member=Component A7 Blackpill-stm32f401ccu6
+Added Member To Class: ClassName=Sheet2 Member=Component C1 220 н‘
+Added Member To Class: ClassName=Sheet2 Member=Component C2 220 н‘
+Added Member To Class: ClassName=Sheet2 Member=Component DD1 74HC14
+Added Member To Class: ClassName=Sheet2 Member=Component HL1 ќбозначение при заказе
+Added Member To Class: ClassName=Sheet2 Member=Component HL2 ќбозначение при заказе
+Added Member To Class: ClassName=Sheet2 Member=Component LS1 ќбозначение при заказе
+Added Member To Class: ClassName=Sheet2 Member=Component R1 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R2 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R3 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R4 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R5 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R6 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R7 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R8 ва
+Added Member To Class: ClassName=Sheet2 Member=Component SB1 KLS7-TS6601-13.0-180
+Added Member To Class: ClassName=Sheet2 Member=Component SB2 KLS7-TS6601-13.0-180
+Added Member To Class: ClassName=Sheet2 Member=Component VT1
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP3 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP4 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP5 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP6 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP7 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP8 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP9 XT60
+Added Member To Class: ClassName=Sheet2 Member=Component XP10
+Added Member To Class: ClassName=Sheet2 Member=Component XP11
+Added Member To Class: ClassName=Sheet1 Member=Component XP12
+Added Member To Class: ClassName=Sheet1 Member=Component XP13

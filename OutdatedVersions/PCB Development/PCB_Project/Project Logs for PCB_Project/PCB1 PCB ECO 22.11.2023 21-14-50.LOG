@@ -1,0 +1,4 @@
+Added Component: Designator=XP9(XT60UPB-M)
+Added Pin To Net: NetName=12V Pin=XP9-1
+Added Pin To Net: NetName=PWR GND Pin=XP9-2
+Added Member To Class: ClassName=Sheet1 Member=Component XP9 XT60

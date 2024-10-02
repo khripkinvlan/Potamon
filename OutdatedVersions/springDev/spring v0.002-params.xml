@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamWithValueList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>20080502</version>
+  <parameterTypes>
+    <ParamType>
+      <typeName>Inventor</typeName>
+      <typeCode>0</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>String</typeName>
+      <typeCode>1</typeCode>
+    </ParamType>
+    <ParamType>
+      <typeName>Boolean</typeName>
+      <typeCode>2</typeCode>
+    </ParamType>
+  </parameterTypes>
+  <parameters>
+    <ParamWithValue>
+      <name>Length</name>
+      <typeCode>мм</typeCode>
+      <value>30 мм + 2 бр * Pitch</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Thickness</name>
+      <typeCode>мм</typeCode>
+      <value>3 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Width</name>
+      <typeCode>мм</typeCode>
+      <value>2 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Pitch</name>
+      <typeCode>мм</typeCode>
+      <value>1.4 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>InsD</name>
+      <typeCode>мм</typeCode>
+      <value>OutD - 2 бр * Width</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>OutD</name>
+      <typeCode>мм</typeCode>
+      <value>12 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Chamfer</name>
+      <typeCode>мм</typeCode>
+      <value>0.3 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d0</name>
+      <typeCode>мм</typeCode>
+      <value>Chamfer</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d1</name>
+      <typeCode>мм</typeCode>
+      <value>d0</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d2</name>
+      <typeCode>мм</typeCode>
+      <value>d0</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d3</name>
+      <typeCode>мм</typeCode>
+      <value>d2</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d4</name>
+      <typeCode>мм</typeCode>
+      <value>d0</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d5</name>
+      <typeCode>мм</typeCode>
+      <value>d4</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d6</name>
+      <typeCode>мм</typeCode>
+      <value>d0</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d7</name>
+      <typeCode>мм</typeCode>
+      <value>d6</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d8</name>
+      <typeCode>мм</typeCode>
+      <value>Pitch</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d9</name>
+      <typeCode>мм</typeCode>
+      <value>Length / 2 бр</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d10</name>
+      <typeCode>мм</typeCode>
+      <value>InsD / 2 бр</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d11</name>
+      <typeCode>мм</typeCode>
+      <value>OutD / 2 бр</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d12</name>
+      <typeCode>мм</typeCode>
+      <value>Pitch + 0.1 мм</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d14</name>
+      <typeCode>бр</typeCode>
+      <value>1.500 бр</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d15</name>
+      <typeCode>град</typeCode>
+      <value>0.00 град</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d20</name>
+      <typeCode>мм</typeCode>
+      <value>Pitch * 4.200 бр</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d21</name>
+      <typeCode>мм</typeCode>
+      <value>Length - 4.500 бр * Pitch</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d23</name>
+      <typeCode>град</typeCode>
+      <value>0.00 град</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d28</name>
+      <typeCode>мм</typeCode>
+      <value>Pitch + 0.1 мм</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d30</name>
+      <typeCode>бр</typeCode>
+      <value>1.500 бр</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>d31</name>
+      <typeCode>град</typeCode>
+      <value>0.00 град</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>sa_0</name>
+      <typeCode>Н</typeCode>
+      <value>1 Н</value>
+      <comment />
+      <isKey>false</isKey>
+      <tolerance>По умолчанию;Номинальный;Точность документа</tolerance>
+    </ParamWithValue>
+    <ParamWithValue>
+      <name>Gap</name>
+      <typeCode>мм</typeCode>
+      <value>0.3 мм</value>
+      <comment />
+      <isKey>false</isKey>
+    </ParamWithValue>
+  </parameters>
+</ParamWithValueList>

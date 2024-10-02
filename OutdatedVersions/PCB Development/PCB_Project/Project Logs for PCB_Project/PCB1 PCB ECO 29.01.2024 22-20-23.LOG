@@ -1,0 +1,40 @@
+Added Component: Designator=R8(R0603)
+Added Pin To Net: NetName=NetR7_2 Pin=R8-1
+Added Pin To Net: NetName=NetC2_1 Pin=R8-2
+Added Member To Class: ClassName=Sheet1 Member=Component A1 Monster Moto Shield
+Added Member To Class: ClassName=Sheet1 Member=Component A2 Monster Moto Shield
+Added Member To Class: ClassName=Sheet1 Member=Component A3 DC-DC Board
+Added Member To Class: ClassName=Sheet2 Member=Component A4 GY-BNO055
+Added Member To Class: ClassName=Sheet1 Member=Component A5 Bluepill-stm32f103c8t6
+Added Member To Class: ClassName=Sheet1 Member=Component A6 Bluepill-stm32f103c8t6
+Added Member To Class: ClassName=Sheet2 Member=Component A7 Blackpill-stm32f401ccu6
+Added Member To Class: ClassName=Sheet2 Member=Component C1 220 н‘
+Added Member To Class: ClassName=Sheet2 Member=Component C2 220 н‘
+Added Member To Class: ClassName=Sheet2 Member=Component DD1 74HC14
+Added Member To Class: ClassName=Sheet2 Member=Component HL1 ќбозначение при заказе
+Added Member To Class: ClassName=Sheet2 Member=Component HL2 ќбозначение при заказе
+Added Member To Class: ClassName=Sheet2 Member=Component LS1 ќбозначение при заказе
+Added Member To Class: ClassName=Sheet2 Member=Component R1 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R2 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R3 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R4 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R5 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R6 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R7 ва
+Added Member To Class: ClassName=Sheet2 Member=Component R8 ва
+Added Member To Class: ClassName=Sheet2 Member=Component SB1 KLS7-TS6601-13.0-180
+Added Member To Class: ClassName=Sheet2 Member=Component SB2 KLS7-TS6601-13.0-180
+Added Member To Class: ClassName=Sheet2 Member=Component VT1
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP3 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP4 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP5 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP6 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP7 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP8 B2P-VH
+Added Member To Class: ClassName=Sheet1 Member=Component XP9 XT60
+Added Member To Class: ClassName=Sheet2 Member=Component XP10
+Added Member To Class: ClassName=Sheet2 Member=Component XP11
+Added Member To Class: ClassName=Sheet1 Member=Component XP12
+Added Member To Class: ClassName=Sheet1 Member=Component XP13

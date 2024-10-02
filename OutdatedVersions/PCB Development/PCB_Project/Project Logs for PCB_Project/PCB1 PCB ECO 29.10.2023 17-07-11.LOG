@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=A4-7
+Added Pin To Net: NetName=3V3 Pin=A4-8
+Add Pin To Net: Unknown Pin: Pin DD1-17
+Added Member To Class: ClassName=Sheet2 Member=Component A4 GY-BNO055

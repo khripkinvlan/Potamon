@@ -1,0 +1,9 @@
+Added Component: Designator=A?(Monster Moto Shield)
+Added Pin To Net: NetName=GND Pin=A?-16
+Added Pin To Net: NetName=GND Pin=A?-16
+Added Pin To Net: NetName=GND Pin=A?-17
+Added Pin To Net: NetName=GND Pin=A?-17
+Added Pin To Net: NetName=GND Pin=A?-18
+Added Pin To Net: NetName=GND Pin=A?-18
+Added Net: Name=GND
+Added Class: Name=Sheet1

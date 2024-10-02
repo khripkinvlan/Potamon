@@ -1,0 +1,24 @@
+Added Component: Designator=XP1(JST 4pin)
+Added Component: Designator=XP2(JST 4pin)
+Added Component: Designator=XP3(JST 4pin)
+Added Component: Designator=XP4(JST 4pin)
+Added Pin To Net: NetName=5V Pin=XP1-1
+Added Pin To Net: NetName=ENC1_CH1_1 Pin=XP1-2
+Added Pin To Net: NetName=ENC1_CH2_1 Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Pin To Net: NetName=5V Pin=XP2-1
+Added Pin To Net: NetName=ENC1_CH1_2 Pin=XP2-2
+Added Pin To Net: NetName=ENC1_CH2_2 Pin=XP2-3
+Added Pin To Net: NetName=GND Pin=XP2-4
+Added Pin To Net: NetName=5V Pin=XP3-1
+Added Pin To Net: NetName=ENC2_CH1_1 Pin=XP3-2
+Added Pin To Net: NetName=ENC2_CH2_1 Pin=XP3-3
+Added Pin To Net: NetName=GND Pin=XP3-4
+Added Pin To Net: NetName=5V Pin=XP4-1
+Added Pin To Net: NetName=ENC2_CH1_2 Pin=XP4-2
+Added Pin To Net: NetName=ENC2_CH2_2 Pin=XP4-3
+Added Pin To Net: NetName=GND Pin=XP4-4
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP3 JST4
+Added Member To Class: ClassName=Sheet1 Member=Component XP4 JST4

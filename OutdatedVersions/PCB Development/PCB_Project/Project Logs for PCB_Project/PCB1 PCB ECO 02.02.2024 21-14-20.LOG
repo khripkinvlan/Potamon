@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=R2 Old DesignItemId=R1_POSTOYANNYJ_W0.5 New DesignItemId=Resisitor
+Change Component DesignItemId : Designator=R3 Old DesignItemId=R1_POSTOYANNYJ_W0.5 New DesignItemId=Resisitor
+Change Component DesignItemId : Designator=R4 Old DesignItemId=R1_POSTOYANNYJ_W0.5 New DesignItemId=Resisitor
+Change Component DesignItemId : Designator=R18 Old DesignItemId=R1_POSTOYANNYJ_W0.5 New DesignItemId=Resisitor
+Change Component Footprint: Designator=R1 Old Footprint=R0603 New Footprint=R1210
+Change Component Footprint: Designator=R2 Old Footprint=R0603 New Footprint=R1210
+Change Component Footprint: Designator=R3 Old Footprint=R0603 New Footprint=R1210
+Change Component Footprint: Designator=R4 Old Footprint=R0603 New Footprint=R1210
+Change Component Footprint: Designator=R18 Old Footprint=R0603 New Footprint=R1210

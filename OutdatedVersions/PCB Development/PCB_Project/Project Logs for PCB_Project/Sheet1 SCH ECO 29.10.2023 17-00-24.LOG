@@ -1,0 +1,4 @@
+Remove Pin=A4-3 From Net=IMU_INT
+Remove Pin=A4-4 From Net=INU_ADDR
+Remove Pin=A4-5 From Net=I2C_SDA
+Remove Pin=A4-6 From Net=I2C_SCL

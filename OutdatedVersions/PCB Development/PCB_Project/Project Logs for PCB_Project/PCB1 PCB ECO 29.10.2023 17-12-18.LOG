@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=IMU_INT Pin=A4-3
+Added Pin To Net: NetName=INU_ADDR Pin=A4-4
+Added Pin To Net: NetName=I2C_SDA Pin=A4-5
+Added Pin To Net: NetName=I2C_SCL Pin=A4-6
+Add Pin To Net: Unknown Pin: Pin DD1-17

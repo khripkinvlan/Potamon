@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R1 Old Footprint=Res 1/4w New Footprint=R0603
+Added Component: Designator=VT1(SOT23-3-BEC)
+Add Pin To Net: Unknown Pin: Pin DD1-17
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-B
+Added Pin To Net: NetName=NetR1_1 Pin=VT1-C
+Added Pin To Net: NetName=GND Pin=VT1-E
+Added Member To Class: ClassName=Sheet2 Member=Component VT1

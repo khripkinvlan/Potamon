@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=CS2_2 Pin=A2-4
+Removed Pin From Net: NetName=CS2_1 Pin=A5-33
+Removed Pin From Net: NetName=CS1_1 Pin=A5-34
+Removed Pin From Net: NetName=CS2_2 Pin=A6-33
+Removed Pin From Net: NetName=CS1_2 Pin=A6-34
+Removed Pin From Net: NetName=CS1_2 Pin=XP10-2
+Removed Pin From Net: NetName=CS2_2 Pin=XP11-2
+Removed Pin From Net: NetName=CS1_1 Pin=XP12-2
+Removed Pin From Net: NetName=CS2_1 Pin=XP13-2
+Change Component Footprint: Designator=R1 Old Footprint=R1210 New Footprint=R0603
+Change Component Footprint: Designator=R2 Old Footprint=R1210 New Footprint=R0603
+Change Component Footprint: Designator=R3 Old Footprint=R1210 New Footprint=R0603
+Change Component Footprint: Designator=R4 Old Footprint=R1210 New Footprint=R0603
+Added Pin To Net: NetName=CS2_1 Pin=A2-4
+Added Pin To Net: NetName=CS1_1F Pin=A5-34
+Added Pin To Net: NetName=CS1_1F Pin=XP12-2
+Added Net: Name=CS1_1F
+Added Pin To Net: NetName=CS1_2F Pin=A6-34
+Added Pin To Net: NetName=CS1_2F Pin=XP10-2
+Added Net: Name=CS1_2F
+Added Pin To Net: NetName=CS2_1F Pin=A5-33
+Added Pin To Net: NetName=CS2_1F Pin=XP13-2
+Added Net: Name=CS2_1F
+Added Pin To Net: NetName=CS2_2F Pin=A6-33
+Added Pin To Net: NetName=CS2_2F Pin=XP11-2
+Added Net: Name=CS2_2F

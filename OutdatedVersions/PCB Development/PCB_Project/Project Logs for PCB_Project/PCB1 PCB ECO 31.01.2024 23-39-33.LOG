@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=5V Pin=XP1-1
+Removed Pin From Net: NetName=5V Pin=XP2-1
+Removed Pin From Net: NetName=5V Pin=XP3-1
+Removed Pin From Net: NetName=5V Pin=XP4-1
+Removed Pin From Net: NetName=NetA1_11 Pin=XP5-1
+Removed Pin From Net: NetName=NetA1_13 Pin=XP6-1
+Removed Pin From Net: NetName=NetA2_11 Pin=XP7-1
+Removed Pin From Net: NetName=NetA2_13 Pin=XP8-1
+Added Component: Designator=DA?(SOT236)
+Added Component: Designator=DA?(SOT236)
+Added Component: Designator=DA?(VSSOP-8)
+Added Component: Designator=DA?(SOT236)
+Added Component: Designator=DA?(SOT236)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=R?(R0603)
+Added Component: Designator=XP?(PLS-3)
+Added Component: Designator=XP?(PLS-3)
+Added Component: Designator=XP?(PLS-3)
+Added Component: Designator=XP?(PLS-3)
+Added Pin To Net: NetName=NetA5_41 Pin=A5-42
+Added Pin To Net: NetName=NetA5_41 Pin=A5-43
+Added Pin To Net: NetName=GND Pin=DA?-2
+Added Pin To Net: NetName=GND Pin=DA?-2
+Added Pin To Net: NetName=GND Pin=DA?-2
+Added Pin To Net: NetName=GND Pin=DA?-2
+Added Pin To Net: NetName=3V3 Pin=DA?-3
+Added Pin To Net: NetName=3V3 Pin=DA?-3
+Added Pin To Net: NetName=3V3 Pin=DA?-3
+Added Pin To Net: NetName=3V3 Pin=DA?-3
+Added Pin To Net: NetName=GND Pin=DA?-4
+Added Pin To Net: NetName=NetA1_11 Pin=DA?-4
+Added Pin To Net: NetName=NetA1_13 Pin=DA?-4
+Added Pin To Net: NetName=NetA2_11 Pin=DA?-4
+Added Pin To Net: NetName=NetA2_13 Pin=DA?-4
+Added Pin To Net: NetName=3V3 Pin=DA?-8
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=NetA1_11 Pin=R?-2
+Added Pin To Net: NetName=NetA1_13 Pin=R?-2
+Added Pin To Net: NetName=NetA2_11 Pin=R?-2
+Added Pin To Net: NetName=NetA2_13 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=XP1-1
+Added Pin To Net: NetName=3V3 Pin=XP2-1
+Added Pin To Net: NetName=3V3 Pin=XP3-1
+Added Pin To Net: NetName=3V3 Pin=XP4-1
+Added Pin To Net: NetName=NetA5_41 Pin=XP12-2
+Added Pin To Net: NetName=NetA5_41 Pin=XP12-3
+Added Pin To Net: NetName=1V65 Pin=DA?-1
+Added Pin To Net: NetName=1V65 Pin=DA?-1
+Added Pin To Net: NetName=1V65 Pin=DA?-1
+Added Pin To Net: NetName=1V65 Pin=DA?-1
+Added Pin To Net: NetName=1V65 Pin=DA?-1
+Added Pin To Net: NetName=1V65 Pin=DA?-2
+Added Pin To Net: NetName=1V65 Pin=DA?-6
+Added Pin To Net: NetName=1V65 Pin=DA?-7
+Added Net: Name=1V65
+Added Pin To Net: NetName=CS1_1 Pin=A5-34
+Added Pin To Net: NetName=CS1_1 Pin=XP?-2
+Added Pin To Net: NetName=CS1_1 Pin=XP?-3
+Added Net: Name=CS1_1
+Added Pin To Net: NetName=CS1_2 Pin=A6-34
+Added Pin To Net: NetName=CS1_2 Pin=XP?-2
+Added Pin To Net: NetName=CS1_2 Pin=XP?-3
+Added Net: Name=CS1_2
+Added Pin To Net: NetName=CS2_1 Pin=A5-33
+Added Pin To Net: NetName=CS2_1 Pin=XP?-2
+Added Pin To Net: NetName=CS2_1 Pin=XP?-3
+Added Net: Name=CS2_1
+Added Pin To Net: NetName=CS2_2 Pin=A6-33
+Added Pin To Net: NetName=CS2_2 Pin=XP?-2
+Added Pin To Net: NetName=CS2_2 Pin=XP?-3
+Added Net: Name=CS2_2
+Added Pin To Net: NetName=EN1_1 Pin=A5-16
+Added Net: Name=EN1_1
+Added Pin To Net: NetName=EN1_2 Pin=A6-16
+Added Net: Name=EN1_2
+Added Pin To Net: NetName=EN2_1 Pin=A5-13
+Added Net: Name=EN2_1
+Added Pin To Net: NetName=EN2_2 Pin=A6-13
+Added Net: Name=EN2_2
+Added Pin To Net: NetName=ENC1_CH1_1 Pin=A5-5
+Added Net: Name=ENC1_CH1_1
+Added Pin To Net: NetName=ENC1_CH1_2 Pin=A6-5
+Added Net: Name=ENC1_CH1_2
+Added Pin To Net: NetName=ENC1_CH2_1 Pin=A5-6
+Added Net: Name=ENC1_CH2_1
+Added Pin To Net: NetName=ENC1_CH2_2 Pin=A6-6
+Added Net: Name=ENC1_CH2_2
+Added Pin To Net: NetName=ENC2_CH1_1 Pin=A5-35
+Added Net: Name=ENC2_CH1_1
+Added Pin To Net: NetName=ENC2_CH1_2 Pin=A6-35
+Added Net: Name=ENC2_CH1_2
+Added Pin To Net: NetName=ENC2_CH2_1 Pin=A5-36
+Added Net: Name=ENC2_CH2_1
+Added Pin To Net: NetName=ENC2_CH2_2 Pin=A6-36
+Added Net: Name=ENC2_CH2_2
+Added Pin To Net: NetName=INA1_1 Pin=A5-14
+Added Net: Name=INA1_1
+Added Pin To Net: NetName=INA1_2 Pin=A6-14
+Added Net: Name=INA1_2
+Added Pin To Net: NetName=INA2_1 Pin=A5-11
+Added Net: Name=INA2_1
+Added Pin To Net: NetName=INA2_2 Pin=A6-11
+Added Net: Name=INA2_2
+Added Pin To Net: NetName=INB1_1 Pin=A5-15
+Added Net: Name=INB1_1
+Added Pin To Net: NetName=INB1_2 Pin=A6-15
+Added Net: Name=INB1_2
+Added Pin To Net: NetName=INB2_1 Pin=A5-12
+Added Net: Name=INB2_1
+Added Pin To Net: NetName=INB2_2 Pin=A6-12
+Added Net: Name=INB2_2
+Added Pin To Net: NetName=NetDA?_3 Pin=DA?-3
+Added Pin To Net: NetName=NetDA?_3 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_3 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_3 Pin=R?-2
+Added Net: Name=NetDA?_3
+Added Pin To Net: NetName=NetDA?_5 Pin=DA?-5
+Added Pin To Net: NetName=NetDA?_5 Pin=R?-1
+Added Pin To Net: NetName=NetDA?_5 Pin=XP7-1
+Added Net: Name=NetDA?_5
+Add Net: Net with name "NetDA?_5" already exists
+Add Net: Net with name "NetDA?_5" already exists
+Add Net: Net with name "NetDA?_5" already exists
+Added Pin To Net: NetName=NetDA?_6 Pin=DA?-6
+Added Pin To Net: NetName=NetDA?_6 Pin=XP?-1
+Added Net: Name=NetDA?_6
+Add Net: Net with name "NetDA?_6" already exists
+Add Net: Net with name "NetDA?_6" already exists
+Add Net: Net with name "NetDA?_6" already exists
+Added Pin To Net: NetName=NetLabel1 Pin=A1-5
+Added Net: Name=NetLabel1
+Added Pin To Net: NetName=NetLabel2 Pin=A1-6
+Added Net: Name=NetLabel2
+Added Pin To Net: NetName=NetLabel3 Pin=A1-7
+Added Net: Name=NetLabel3
+Added Pin To Net: NetName=NetLabel4 Pin=A1-8
+Added Net: Name=NetLabel4
+Added Pin To Net: NetName=NetLabel5 Pin=A1-9
+Added Net: Name=NetLabel5
+Added Pin To Net: NetName=NetLabel6 Pin=A1-10
+Added Net: Name=NetLabel6
+Added Pin To Net: NetName=NetLabel7 Pin=A1-1
+Added Net: Name=NetLabel7
+Added Pin To Net: NetName=NetLabel9 Pin=A2-5
+Added Net: Name=NetLabel9
+Added Pin To Net: NetName=NetLabel10 Pin=A2-6
+Added Net: Name=NetLabel10
+Added Pin To Net: NetName=NetLabel11 Pin=A2-7
+Added Net: Name=NetLabel11
+Added Pin To Net: NetName=NetLabel12 Pin=A2-8
+Added Net: Name=NetLabel12
+Added Pin To Net: NetName=NetLabel13 Pin=A2-9
+Added Net: Name=NetLabel13
+Added Pin To Net: NetName=NetLabel14 Pin=A2-10
+Added Net: Name=NetLabel14
+Added Pin To Net: NetName=NetLabel15 Pin=A2-1
+Added Net: Name=NetLabel15
+Added Pin To Net: NetName=NetLabel16 Pin=A2-2
+Added Net: Name=NetLabel16
+Added Pin To Net: NetName=NetLabel17 Pin=XP1-2
+Added Net: Name=NetLabel17
+Added Pin To Net: NetName=NetLabel18 Pin=XP1-3
+Added Net: Name=NetLabel18
+Added Pin To Net: NetName=NetLabel19 Pin=XP3-2
+Added Net: Name=NetLabel19
+Added Pin To Net: NetName=NetLabel20 Pin=XP3-3
+Added Net: Name=NetLabel20
+Added Pin To Net: NetName=NetLabel21 Pin=XP2-2
+Added Net: Name=NetLabel21
+Added Pin To Net: NetName=NetLabel22 Pin=XP2-3
+Added Net: Name=NetLabel22
+Added Pin To Net: NetName=NetLabel23 Pin=XP4-2
+Added Net: Name=NetLabel23
+Added Pin To Net: NetName=NetLabel24 Pin=XP4-3
+Added Net: Name=NetLabel24
+Added Pin To Net: NetName=NetLabel54 Pin=A1-2
+Added Net: Name=NetLabel54
+Added Pin To Net: NetName=NetLabel55 Pin=A1-3
+Added Net: Name=NetLabel55
+Added Pin To Net: NetName=NetLabel56 Pin=A1-4
+Added Net: Name=NetLabel56
+Added Pin To Net: NetName=NetLabel57 Pin=A2-3
+Added Net: Name=NetLabel57
+Added Pin To Net: NetName=NetLabel58 Pin=A2-4
+Added Net: Name=NetLabel58
+Added Pin To Net: NetName=PWM1_1 Pin=A5-30
+Added Net: Name=PWM1_1
+Added Pin To Net: NetName=PWM1_2 Pin=A6-30
+Added Net: Name=PWM1_2
+Added Pin To Net: NetName=PWM2_1 Pin=A5-29
+Added Net: Name=PWM2_1
+Added Pin To Net: NetName=PWM2_2 Pin=A6-29
+Added Net: Name=PWM2_2
+Added Member To Class: ClassName=Sheet1 Member=Component DA? INA181A1IDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component DA? INA181A1IDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component DA? LM358DGKR
+Added Member To Class: ClassName=Sheet1 Member=Component DA? INA181A1IDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component DA? INA181A1IDBVR
+Added Member To Class: ClassName=Sheet1 Member=Component R? ва
+Added Member To Class: ClassName=Sheet1 Member=Component R? ва
+Added Member To Class: ClassName=Sheet1 Member=Component R? ва
+Added Member To Class: ClassName=Sheet1 Member=Component R? ва
+Added Member To Class: ClassName=Sheet1 Member=Component R? ва
+Added Member To Class: ClassName=Sheet1 Member=Component R? ва
+Added Member To Class: ClassName=Sheet1 Member=Component XP?
+Added Member To Class: ClassName=Sheet1 Member=Component XP?
+Added Member To Class: ClassName=Sheet1 Member=Component XP?
+Added Member To Class: ClassName=Sheet1 Member=Component XP?

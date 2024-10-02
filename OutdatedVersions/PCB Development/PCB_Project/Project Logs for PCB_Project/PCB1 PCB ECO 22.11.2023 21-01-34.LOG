@@ -1,0 +1,10 @@
+Change Component Comment : Designator=C1 Old Comment==Value New Comment=220 íÔ
+Change Component Comment : Designator=C2 Old Comment==Value New Comment=220 íÔ
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603C"; UniqueID = "\HLNTAGXW" ("\HLNTAGXW")
+Change component parameters (AddParameter): Name = "Value"; Value = "220 íÔ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0603C"; UniqueID = "\QXNWBBSN" ("\QXNWBBSN")
+Change component parameters (AddParameter): Name = "Value"; Value = "220 íÔ"; VariantName = "[No Variations]"
+Added Component: Designator=XP9(XT60UPB-M)
+Added Pin To Net: NetName=12V Pin=XP9-1
+Added Pin To Net: NetName=PWR GND Pin=XP9-2
+Added Member To Class: ClassName=Sheet1 Member=Component XP9 XT60
